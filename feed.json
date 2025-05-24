@@ -5,19 +5,11 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2025/05/24/about/",
-            "url": "http://example.com/2025/05/24/about/",
-            "title": "迷你论坛简单介绍",
-            "date_published": "2025-05-24T04:18:51.034Z",
-            "content_html": "<p>可以找任何教程，不知道的问 QQ2490504898，或者加 Q 群 1050910690</p>\n",
-            "tags": []
-        },
-        {
             "id": "http://example.com/2025/04/29/%E5%85%A5%E7%AB%99%E5%BF%85%E7%9C%8B%EF%BC%81/",
             "url": "http://example.com/2025/04/29/%E5%85%A5%E7%AB%99%E5%BF%85%E7%9C%8B%EF%BC%81/",
             "title": "欢迎！进站看看消息OWO",
             "date_published": "2025-04-29T13:09:32.386Z",
-            "content_html": "<p>你好！新人！一下是个人介绍：<br>\nB 站：蓝星辰 pass<br>\n 小职业：MC 服主 (没上线，正在内测)</p>\n<p>群聊：<br>\nQ 群：①群 1050910690</p>\n<p>感谢支持！</p>\n",
+            "content_html": "<p>你好！新人！一下是个人介绍：<br>\nB 站：蓝星辰 pass</p>\n<p>群聊：<br>\nQ 群：①群 1050910690</p>\n<p>感谢支持！</p>\n",
             "tags": []
         }
     ]
